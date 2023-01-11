@@ -4,4 +4,5 @@ def add(a, b):
 def subtract(a, b):
 	return a-b
 
-print(1)
+def divide(a, b):
+	return a/b
